@@ -18,25 +18,24 @@ Education
 Skills
 ======
 * Programming
-  * Python (Proficient)
-  * Stata (Proficient)
-  * Linux (Proficient)
-  * Julia (Proficient)
+  * Python (Proficient), Stata (Proficient), Linux (Proficient), Julia (Proficient)
 * Language
-  * Chinese Mandarin (Native)
-  * English (Fluent)
-  * Japanese (Intermediate)
+  * Chinese Mandarin (Native), English (Fluent), Japanese (Intermediate)
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Algorithmic Personalization and Digital Addiction: A Field Experiment on Douyin (TikTok), with Qianyun (Carole) Gao, Yu Gao, and Juanjuan Meng. Working Paper
+
+#Publications
+#======
+#  <ul>{% for post in site.publications reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
 
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Teaching
+# ======
+#   <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
