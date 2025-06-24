@@ -24,13 +24,5 @@ Skills
 
 Research
 ======
-* Algorithmic Personalization and Digital Addiction: A Field Experiment on Douyin (TikTok), with Qianyun (Carole) Gao, Yu Gao, and Juanjuan Meng. Working Paper
+* Algorithmic Personalization and Digital Addiction: A Field Experiment on Douyin (TikTok), *(with Qianyun (Carole) Gao, Yu Gao, and Juanjuan Meng. Working Paper)*
 
-
-  
-# Teaching
-# ======
-#   <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
