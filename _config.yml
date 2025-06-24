@@ -28,7 +28,7 @@ author:
   bio              : "Economics Ph.D. Student"
   location         : "6473 Observatory Dr, Madison, Wisconsin"
   employer         : "University of Wisconsin-Madison"
-  uri              : "https://econ.wisc.edu/staff/yu-shizhe/" # URL
+  uri              : "" #"https://econ.wisc.edu/staff/yu-shizhe/" # URL
   email            : "shizhe.yu@wisc.edu"
 
   # Academic websites
