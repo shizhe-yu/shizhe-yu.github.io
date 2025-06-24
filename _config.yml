@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "images/bio.png"
   name             : "Shizhe Yu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "" # example: "she/her"  
   bio              : "Economics Ph.D. Student"
   location         : "Madison, Wisconsin"
   employer         : "University of Wisconsin-Madison"
-  uri              : # URL
-  email            : "shizhe.yu@wisc.edu 
+  uri              : "" # URL
+  email            : "shizhe.yu@wisc.edu"
 
   # Academic websites
   academia         : # URL
