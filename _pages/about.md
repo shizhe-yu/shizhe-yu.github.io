@@ -11,7 +11,7 @@ Welcome to my website!
 
 I am Shizhe Yu, a third-year Economics Ph.D. Student in the University of Wisconsin, Madison. My research interest is Industrial Organization.
 
-You can contact me at shizhe[dot]yu[at]wisc.edu.
+Feel free to [contact me](mailto:shizhe.yu@wisc.edu) if you'd like to discuss anything!
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
