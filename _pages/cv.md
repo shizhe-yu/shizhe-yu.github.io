@@ -21,7 +21,7 @@ Research
 
 Teaching
 ======
-### University of Wisconsin-Madison
+** University of Wisconsin-Madison **
 * Spring 2025: Statistics: Measurement in Economics (Econ310)
 * Fall 2024: Statistics: Measurement in Economics (Econ310)
 * Spring 2024: Introduction to Economics (Econ101)
