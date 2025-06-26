@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shizhe's Personal Website"
+title                    : "Shizhe's Homepage"
 title_separator          : "-"
 name                     : &name "Shizhe Yu"
 description              : "" #&description "personal description"
