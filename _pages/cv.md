@@ -18,11 +18,19 @@ Research
 ======
 * Algorithmic Personalization and Digital Addiction: A Field Experiment on Douyin (TikTok), *(with Qianyun (Carole) Gao, Yu Gao, and Juanjuan Meng. Working Paper)*
 
-  
+
+Teaching
+======
+* Fall 2023: Introduction to Economics (Econ101)
+* Spring 2024: Introduction to Economics (Econ101)
+* Fall 2024: Statistics: Measurement in Economics (Econ310)
+* Spring 2025: Statistics: Measurement in Economics (Econ310)
+
+
 Skills
 ======
 * Programming
-  * Python (Proficient), Stata (Proficient), Linux (Proficient), Julia (Proficient)
+  * Python, Stata, Linux, Julia
 * Language
   * Chinese Mandarin (Native), English (Fluent), Japanese (Intermediate)
 
