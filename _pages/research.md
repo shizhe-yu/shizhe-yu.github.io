@@ -11,7 +11,7 @@ author_profile: true
 
 Abstract: I study how oligopolistic competition affects product variety and welfare in the global commercial aircraft market, characterized by duopolistic competition between Airbus and Boeing. Using a structural model with endogenous product entry, I develop a three-part decomposition framework to provide a nuanced understanding of product variety-two complementary variety measurements, two forces shaping firms' variety decisions, and two welfare implications from different conducts. The simulation results show that while monopoly scenarios increase product variety, much of it reflects strategic repositioning with limited consumer value. In contrast, duopoly preserves price competition and yields the highest total welfare, highlighting trade-offs between coordination and competition.
 
-## Pre-doctoral Work
+
 ### Algorithmic Personalization and Digital Addiction: A Field Experiment on Douyin (TikTok)
 *with Qianyun (Carole) Gao, Yu Gao, and Juanjuan Meng, draft available at SSRN:4885043*
 
