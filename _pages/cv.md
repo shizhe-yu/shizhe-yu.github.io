@@ -14,12 +14,16 @@ Education
 * Ph.D in Economics, University of Wisconsin-Madison, 2023-
 * B.A. in Financial Economics, Peking University, 2019-2023
 
-Research
+Working Papers
 ======
 * Algorithmic Personalization and Digital Addiction: A Field Experiment on Douyin (TikTok), *(with Qianyun (Carole) Gao, Yu Gao, and Juanjuan Meng. Working Paper)*
 
 
-Teaching
+Research Experience
+======
+Research Assistant for Panle (Jia) Barwick, Summer 2025-
+
+Teaching Experience
 ======
 **University of Wisconsin-Madison**
 * Spring 2025: Statistics: Measurement in Economics (Econ310)
