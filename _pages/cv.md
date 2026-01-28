@@ -21,8 +21,8 @@ Working Papers
 
 Research Experience
 ======
-Research Assistant for Jean-Francois Houde, Spring 2026
-Research Assistant for Panle (Jia) Barwick, Summer 2025-
+* Research Assistant for Jean-Francois Houde, Spring 2026
+* Research Assistant for Panle (Jia) Barwick, Summer 2025-
 
 Teaching Experience
 ======
