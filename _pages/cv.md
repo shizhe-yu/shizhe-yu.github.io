@@ -33,7 +33,9 @@ Teaching Experience
 * Fall 2023: Introduction to Economics (Econ101)
 
 
-
+Honors and Awards
+======
+* JPGI Summer Research Fellowship, University of Wisconsin-Madison, Summer 2026
 
 
 Skills
