@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, University of Wisconsin-Madison, 2023-
-* B.A. in Financial Economics, Peking University, 2019-2023
+* B.A. in Financial Economics (summa cum laude), Peking University, 2019-2023
 
 Working Papers
 ======
@@ -27,10 +27,14 @@ Research Experience
 Teaching Experience
 ======
 **University of Wisconsin-Madison**
-* Spring 2025: Statistics: Measurement in Economics (Econ310)
-* Fall 2024: Statistics: Measurement in Economics (Econ310)
-* Spring 2024: Introduction to Economics (Econ101)
-* Fall 2023: Introduction to Economics (Econ101)
+* Statistics: Measurement in Economics (Econ310), Spring 2025
+* Statistics: Measurement in Economics (Econ310), Fall 2024
+* Introduction to Economics (Econ101), Spring 2024
+* Introduction to Economics (Econ101), Fall 2023
+
+Research Presentations
+======
+* 2026: IIOC Annual Conference (Scheduled)
 
 
 Honors and Awards
