@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Misc"
-permalink: /personal/
+permalink: /misc/
 author_profile: true
 ---
 
