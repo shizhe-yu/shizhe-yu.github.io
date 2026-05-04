@@ -42,7 +42,7 @@ I have visited the following U.S. national parks.
       { name: "Great Sand Dunes National Park", state: "CO", lat: 37.7329, lng: -105.5126, visited: "2024" },
       { name: "Hawaiʻi Volcanoes National Park", state: "HI", lat: 19.4194, lng: -155.2885, visited: "2014" },
       { name: "Indiana Dunes National Park", state: "IN", lat: 41.6533, lng: -87.0524, visited: "2025" },
-      { name: "Joshua Tree National Park", state: "CA", lat: 33.8734, lng: -115.9010, visited: "2025" },
+      { name: "Joshua Tree National Park", state: "CA", lat: 33.8734, lng: -115.9010, visited: "2024" },
       { name: "Kings Canyon National Park", state: "CA", lat: 36.8879, lng: -118.5551, visited: "2025" },
       { name: "Mammoth Cave National Park", state: "KY", lat: 37.1862, lng: -86.1005, visited: "2025" },
       { name: "New River Gorge National Park and Preserve", state: "WV", lat: 37.9263, lng: -81.1547, visited: "2025" },
