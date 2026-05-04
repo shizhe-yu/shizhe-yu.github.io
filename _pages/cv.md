@@ -21,8 +21,8 @@ Working Papers
 
 Research Experience
 ======
-* Research Assistant for Jean-Francois Houde, Spring 2026
-* Research Assistant for Panle (Jia) Barwick, Summer 2025-
+* Research Assistant to Jean-Francois Houde, Spring 2026
+* Research Assistant to Panle (Jia) Barwick, Summer 2025-
 
 Teaching Experience
 ======
@@ -34,7 +34,7 @@ Teaching Experience
 
 Research Presentations
 ======
-* 2026: IIOC Annual Conference (Scheduled)
+* 2026: IIOC Annual Conference, EARIE Annual Conference (scheduled)
 
 
 Honors and Awards
