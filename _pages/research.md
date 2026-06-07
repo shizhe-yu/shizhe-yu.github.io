@@ -6,10 +6,10 @@ author_profile: true
 ---
 ## Working Paper
 
-### Competition, Product Variety and Welfare: the Case of Commercial Aircraft Industry
-*Second-year Field Paper, draft available upon request*
+### The Asymmetric Effects of Trade Policy: Airbus and Boeing
+*working paper, draft available upon request*
 
-Abstract: I study how oligopolistic competition affects product variety and welfare in the global commercial aircraft market, which is characterized by duopolistic competition between Airbus and Boeing. Using a structural model with endogenous product entry, I develop a three-part decomposition framework to provide a nuanced understanding of product variety-two complementary variety measurements, two forces shaping firms' variety decisions, and two welfare channels. The simulation results show that while monopoly scenarios increase product variety, much of it reflects strategic repositioning with limited consumer surplus. In contrast, duopoly preserves price competition and yields the highest total welfare, highlighting trade-offs between coordination and competition.
+Abstract: This paper analyzes the welfare effects of trade policy in the global commercial aircraft duopoly, focusing on the long-running dispute between the European Union and the United States over Airbus and Boeing. I develop a structural model of demand and supply with endogenous product entry, and use it to simulate two representative policies: the removal of government subsidies and the imposition of bilateral tariffs. The simulations show how nominally symmetric policies can generate markedly asymmetric firm-level outcomes, re-flecting differences in the form of government support and in the two firms’ competitive positions with endogenous product entry serving as the primary channel.
 
 
 ### Algorithmic Personalization and Digital Addiction: A Field Experiment on Douyin (TikTok)
