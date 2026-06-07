@@ -51,6 +51,7 @@ I have visited the following U.S. national parks.
       { name: "Wind Cave National Park", state: "SD", lat: 43.5724, lng: -103.4416, visited: "2026" },
       { name: "Yellowstone National Park", state: "WY / MT / ID", lat: 44.4280, lng: -110.5885, visited: "2012" },
       { name: "Yosemite National Park", state: "CA", lat: 37.8651, lng: -119.5383, visited: "2012" },
+      { name: "Pinnacles National Park", state: "CA", lat: 36.4906, lng: -121.1825, visited: "2026" },
       { name: "Zion National Park", state: "UT", lat: 37.2982, lng: -113.0263, visited: "2024" }
     ];
 
