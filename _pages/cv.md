@@ -10,12 +10,18 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Economics, University of Wisconsin-Madison, 2023-
-* B.A. in Financial Economics (summa cum laude), Peking University, 2019-2023
+=========
+* University of Wisconsin–Madison, 2023–present
+  Ph.D. in Economics
+  M.S. in Economics, 2025 (en route)
+
+* Peking University, 2019–2023
+  B.A. in Financial Economics, summa cum laude
 
 Working Papers
 ======
+* Entry Deterrence and Quality Improvement: The Welfare Effects of Pharmaceutical Patent Evergreening, *Working Paper*
+* The Asymmetric Effect of Symmetric Trade Policy: Airbus and Boeing, *Working Paper*
 * Algorithmic Personalization and Digital Addiction: A Field Experiment on Douyin (TikTok), *(with Qianyun (Carole) Gao, Yu Gao, and Juanjuan Meng. Working Paper)*
 
 
