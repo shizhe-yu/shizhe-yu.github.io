@@ -12,7 +12,7 @@ redirect_from:
 Education
 =========
 * Ph.D. in Economics, University of Wisconsin–Madison, 2023–present
-* M.S. in Economics, University of Wisconsin–Madison, 2025 (en route to Ph.D.)
+* M.S. in Economics, University of Wisconsin–Madison, 2026 (en route to Ph.D.)
 * B.A. in Financial Economics, summa cum laude, Peking University, 2019–2023
 
 Working Papers
