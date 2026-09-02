@@ -7,7 +7,7 @@ author_profile: true
 ## Working Paper
 
 ### The No Surprises Act’s Surprises: Arbitration, Network Exit, and Insurer Pricing
-*with Panle (Jia) Barwick, Anran Li, and Tianli Xia, draft available at NBER WP 36079*
+*with Panle (Jia) Barwick, Anran Li, and Tianli Xia, draft available at NBER WP 35717*
 
 ### Entry Deterrence and Quality Improvement: The Welfare Effects of Pharmaceutical Patent Evergreening
 *working paper, draft available upon request*
