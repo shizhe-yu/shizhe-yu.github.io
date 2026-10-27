@@ -38,8 +38,16 @@ latest_posts:
   .profile .profile-icons { margin-top: 0.6rem; font-size: 1.25rem; }
   .profile .profile-icons a { color: var(--global-text-color-light); margin-right: 0.8rem; }
   .profile .profile-icons a:hover { color: var(--global-theme-color); }
-  /* text sits to the right of the photo on wide screens */
-  .profile.float-left { margin-right: 1.5rem; }
+  /* two-column layout: photo/address/icons on the left, text on the right */
+  .post article { display: flex; align-items: flex-start; gap: 2rem; }
+  .post article > .profile { flex: 0 0 30%; width: 30%; margin: 0; float: none; }
+  .post article > .clearfix { flex: 1 1 auto; min-width: 0; }
+  .post article > .clearfix > p:first-child { margin-top: 0; }
+  /* phones: stack photo above the text */
+  @media (max-width: 576px) {
+    .post article { flex-direction: column; }
+    .post article > .profile { flex-basis: auto; width: 100%; }
+  }
 </style>
 
 Welcome to my website!
