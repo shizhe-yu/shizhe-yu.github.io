@@ -1,0 +1,6 @@
+# Optional: link co-author names on the Research page to their websites.
+# Key = last name in lowercase; firstname = the spellings used in papers.bib.
+#
+# "barwick":
+#   - firstname: ["Panle Jia", "Panle"]
+#     url: https://example.com
