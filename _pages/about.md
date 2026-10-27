@@ -62,7 +62,7 @@ latest_posts:
 
 Welcome to my website!
 
-I am Shizhe Yu (in Chinese, 俞施喆), a PhD candidate in Economics at University of Wisconsin–Madison, specializing in Industrial Organization. You can find my CV [here](/assets/pdf/cv.pdf){:target="_blank" rel="noopener"}.
+I am Shizhe Yu (in Chinese, 俞施喆, pronounced SHR-juh YOO), a PhD candidate in Economics at University of Wisconsin–Madison, specializing in Industrial Organization. You can find my CV [here](/assets/pdf/cv.pdf){:target="_blank" rel="noopener"}.
 
 Feel free to [contact me](mailto:shizhe.yu@wisc.edu) if you'd like to discuss anything.
 
