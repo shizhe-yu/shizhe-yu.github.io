@@ -1,0 +1,15 @@
+# Social / contact links shown at the bottom of the About page (in this order).
+# Docs for the plugin: https://github.com/george-gca/jekyll-socials
+email: shizhe.yu@wisc.edu # your email address
+# scholar_userid: # your Google Scholar ID, e.g. PS_CX0AAAAAJ
+# orcid_id: # your ORCID ID
+# github_username: # your GitHub user name
+# linkedin_username: # your LinkedIn user name
+uw_profile:
+  logo: fa-solid fa-building-columns
+  title: UW–Madison Economics profile
+  url: https://econ.wisc.edu/staff/yu-shizhe/
+wechat:
+  logo: fa-brands fa-weixin
+  title: WeChat (QR code)
+  url: https://shizhe-yu.github.io/assets/img/wechat_qr.png
