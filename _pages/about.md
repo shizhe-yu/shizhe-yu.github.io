@@ -9,8 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 7222</p>
-    <p>1180 Observatory Dr</p>
+    <p>Office 7222, 1180 Observatory Dr</p>
     <p>Madison, WI 53706</p>
     <div class="profile-icons">
       <a href="mailto:shizhe.yu@wisc.edu" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -32,8 +31,8 @@ latest_posts:
   /* keep the photo at its original aspect ratio */
   .profile img { height: auto !important; aspect-ratio: auto; object-fit: contain; }
   /* address: same font as the page body, smaller and muted */
-  .profile .more-info { font-family: inherit; font-size: 0.85rem; line-height: 1.5; color: var(--global-text-color-light); }
-  .profile .more-info p { display: block; }
+  .profile .more-info { font-family: inherit; font-size: 0.85rem; line-height: 1.35; margin-top: 0.4rem; color: var(--global-text-color-light); }
+  .profile .more-info p { display: block; margin: 0; }
   /* contact icons under the photo */
   .profile .profile-icons { margin-top: 0.6rem; font-size: 1.25rem; }
   .profile .profile-icons a { color: var(--global-text-color-light); margin-right: 0.8rem; }
