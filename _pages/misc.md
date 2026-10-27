@@ -1,9 +1,9 @@
 ---
 layout: page
-title: misc
+title: Misc
 permalink: /misc/
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />

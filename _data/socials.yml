@@ -7,9 +7,9 @@ email: shizhe.yu@wisc.edu # your email address
 # linkedin_username: # your LinkedIn user name
 uw_profile:
   logo: fa-solid fa-building-columns
-  title: UW–Madison Economics profile
+  title: Profile
   url: https://econ.wisc.edu/staff/yu-shizhe/
 wechat:
   logo: fa-brands fa-weixin
-  title: WeChat (QR code)
+  title: Wechat Blog
   url: https://shizhe-yu.github.io/assets/img/wechat_qr.png

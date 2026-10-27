@@ -7,12 +7,10 @@ The previous (academicpages) version of the site is kept on the `backup-original
 
 | What                    | File                                                         |
 | ----------------------- | ------------------------------------------------------------ |
-| About page (bio, photo) | `_pages/about.md`, photo in `assets/img/prof_pic.png`        |
+| About page (bio, photo, contact icons) | `_pages/about.md`, photo in `assets/img/prof_pic.png` |
 | Research page (papers)  | `_bibliography/papers.bib` (abstracts, PDF/SSRN links)       |
-| CV page                 | `_data/cv.yml`                                               |
-| CV PDF (download icon)  | source `cv/cv.tex` → compiled copy `assets/pdf/cv.pdf`       |
+| CV PDF (linked on About)| source `cv/cv.tex` → compiled copy `assets/pdf/cv.pdf`       |
 | Misc page (parks map)   | `_pages/misc.md`                                             |
-| Contact icons           | `_data/socials.yml`                                          |
 | Site-wide settings      | `_config.yml`                                                |
 
 ## Updating the CV PDF
