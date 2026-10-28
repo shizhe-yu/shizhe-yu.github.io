@@ -60,6 +60,11 @@ on:
 permissions:
   contents: write
 
+# Only one deploy at a time; a newer push cancels an older build, so the newest commit always wins.
+concurrency:
+  group: deploy-site
+  cancel-in-progress: true
+
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
